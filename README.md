@@ -87,6 +87,7 @@ OPENAI_API_KEY=your-key-here
 ## 👤 Author
 
 **Sunidhi Jain** [LinkedIn](https://www.linkedin.com/in/sunidhijain13) 
+
 🌸 First-time AI Hackathon builder  
 💬 I wanted to build something human, heartfelt, and helpful.
 

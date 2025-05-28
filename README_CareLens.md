@@ -9,7 +9,7 @@ CareLens is a gentle, GPT-powered reflection tool designed for caregivers and an
 
 ## 💡 Inspiration
 
-Behind every strong patient is often an even stronger caregiver—someone who gives everything and rarely gets the support they need. I built CareLens to change that—to offer emotional check-ins for the ones who are always checking on others.
+Behind every strong patient is often an even stronger caregiver someone who gives everything and rarely gets the support they need. I built CareLens to change that—to offer emotional check-ins for the ones who are always checking on others.
 
 ---
 

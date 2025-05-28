@@ -61,12 +61,12 @@ OPENAI_API_KEY=your-key-here
 
 ### 📸 Screenshot
 
-![CareLens UI](./screenshot.png)
+![CareLens UI](./assets/screenshot.png)
 
 
 ### 🎥 Demo
 
-![App Demo](./demo.gif)
+![App Demo](./assets/demo.gif)
 
 
 ## 💡 Features

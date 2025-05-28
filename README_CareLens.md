@@ -9,7 +9,7 @@ CareLens is a gentle, GPT-powered reflection tool designed for caregivers and an
 
 ## 💡 Inspiration
 
-Behind every strong patient is often an even stronger caregiver someone who gives everything and rarely gets the support they need. I built CareLens to change that—to offer emotional check-ins for the ones who are always checking on others.
+Behind every strong patient is often an even stronger caregiver someone who gives everything and rarely gets the support they need. I built CareLens to change that to offer emotional check-ins for the ones who are always checking on others.
 
 ---
 
@@ -50,9 +50,23 @@ streamlit run app.py
 
 ---
 
+Make sure to add your OpenAI key to `.env` like:
+
+```env
+OPENAI_API_KEY=your-key-here
+```
+
+
 ## 📸 Preview
 
-![screenshot](assets/CareLens.png)
+### 📸 Screenshot
+
+![ResuMatch UI](./screenshot.png)
+
+
+### 🎥 Demo
+
+![App Demo](./demo.gif)
 
 ---
 
@@ -67,7 +81,7 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Sunidhi Jain**  
+**Sunidhi Jain** [LinkedIn](https://www.linkedin.com/in/sunidhijain13)
 🌸 First-time AI Hackathon builder  
 💬 I wanted to build something human, heartfelt, and helpful.
 

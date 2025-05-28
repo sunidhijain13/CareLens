@@ -5,6 +5,8 @@
 
 CareLens is a gentle, GPT-powered reflection tool designed for caregivers and anyone navigating emotional overload. It helps you check in with your feelings, understand your mood, and receive compassionate encouragement.
 
+🚀 [Live App](https://carelens-sunidhijain13.streamlit.app)
+
 ---
 
 ## 💡 Inspiration
